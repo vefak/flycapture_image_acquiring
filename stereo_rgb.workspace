@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeLite_Workspace Name="stereo_rgb">
+	<Project Name="stereo_rgb" Path="stereo_rgb.project" Active="No"/>
+	<BuildMatrix>
+		<WorkspaceConfiguration Name="Release;...;FORCE" Selected="yes">
+			<Project Name="stereo_rgb" ConfigName="Release;...;FORCE"/>
+		</WorkspaceConfiguration>
+	</BuildMatrix>
+</CodeLite_Workspace>

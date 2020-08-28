@@ -1,0 +1,3 @@
+/home/vefak/Desktop/flycap2_rgb/CMakeFiles/rebuild_cache.dir
+/home/vefak/Desktop/flycap2_rgb/CMakeFiles/stereo_rgb.dir
+/home/vefak/Desktop/flycap2_rgb/CMakeFiles/edit_cache.dir
